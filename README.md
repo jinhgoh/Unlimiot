@@ -10,8 +10,6 @@
  - 서비스명 : 네트(Nature Trip, Network)
  - 기간 : 2021.08.12 ~ 2021.08.18
 
-## 개발환경
-* Ubuntu 18.04 LTS 
 
 ## 기술 스택
 * Python 3.7.4
@@ -33,6 +31,9 @@
 ## 발표 영상 (클릭 후 유튜브 발표영상 재생)
 [![Video Label](http://img.youtube.com/vi/8W-t5IWbBo4/0.jpg)](https://youtu.be/8W-t5IWbBo4)
 <br>
+
+## 개발환경
+* Ubuntu 18.04 LTS 
 
 
 
