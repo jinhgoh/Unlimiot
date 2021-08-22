@@ -10,20 +10,9 @@
  - 서비스명 : 네트(Nature Trip, Network)
  - 기간 : 2021.08.12 ~ 2021.08.18
 <br>
-
-![KakaoTalk_20210819_005543682](https://user-images.githubusercontent.com/68317603/129941826-dd244f71-fa8c-4158-a7dd-bbcee59d4310.jpg)
-
-
-
-## 발표 영상 (클릭 후 유튜브 발표영상 재생)
-[![Video Label](http://img.youtube.com/vi/8W-t5IWbBo4/0.jpg)](https://youtu.be/8W-t5IWbBo4)
-<br>
-
-
 ## 개발환경
 * Ubuntu 18.04 LTS 
 <br>
-
 
 ## 기술 스택
 * Python 3.7.4
@@ -36,6 +25,16 @@
 * AWS EC2
 * AWS RDS
 <br>
+
+
+![KakaoTalk_20210819_005543682](https://user-images.githubusercontent.com/68317603/129941826-dd244f71-fa8c-4158-a7dd-bbcee59d4310.jpg)
+
+
+
+## 발표 영상 (클릭 후 유튜브 발표영상 재생)
+[![Video Label](http://img.youtube.com/vi/8W-t5IWbBo4/0.jpg)](https://youtu.be/8W-t5IWbBo4)
+<br>
+
 
 
 ## 팀원별 역할 
